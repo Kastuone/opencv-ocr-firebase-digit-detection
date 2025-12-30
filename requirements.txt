@@ -3,3 +3,9 @@ numpy
 firebase-admin
 paddleocr
 paddlepaddle
+
+### GPU Support (Optional)
+
+For GPU acceleration:
+```bash
+pip install paddlepaddle-gpu
