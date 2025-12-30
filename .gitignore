@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+config/firebase_config.json
+.env
