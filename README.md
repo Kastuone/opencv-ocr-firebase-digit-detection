@@ -14,3 +14,12 @@ Detected digits are sent directly to Firebase Realtime Database.
 ```bash
 pip install -r requirements.txt
 python src/digit_detector.py
+
+## Controls
+- `s` : Manual digit detection
+- `a` : Toggle automatic detection
+- `r` : Select ROI
+- `q` : Quit application
+
+## Project Architecture
+Camera → OpenCV + PaddleOCR → Digit Extraction → Firebase Realtime Database
