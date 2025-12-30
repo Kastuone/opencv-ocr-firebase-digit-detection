@@ -1,0 +1,8 @@
+{
+  "type": "service_account",
+  "project_id": "your-project-id",
+  "private_key_id": "XXXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nXXXX\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk@xxx.iam.gserviceaccount.com",
+  "client_id": "XXXX"
+}
